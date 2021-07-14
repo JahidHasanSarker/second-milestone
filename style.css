@@ -407,8 +407,7 @@ button{
 }
 
 }
-
-@media screen and (max-width: 588px) {
+@media screen and (max-width: 688px) {
 
     .banner-part{
         height: 678px;
