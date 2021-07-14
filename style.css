@@ -271,7 +271,7 @@ button{
 
 /* Css Media Query Start */
 
-@media screen and (max-width: 1356px) {
+@media only screen and (max-width: 1356px) {
     .banner-part {
         height: 678px;
         padding: 0 100px;
@@ -312,7 +312,7 @@ button{
     }
 }
 
-@media screen and (max-width: 992px) {
+@media only screen and (max-width: 992px) {
     .banner-part{
         height: 678px;
         padding-top: 30px;
@@ -407,7 +407,7 @@ button{
 }
 
 }
-@media screen and (max-width: 688px) {
+@media only screen and (max-width: 688px) {
 
     .banner-part{
         height: 678px;
