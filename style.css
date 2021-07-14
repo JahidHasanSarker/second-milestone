@@ -161,3 +161,30 @@ a{
     margin-left: 2%;
 }
 /* Highlight Css End */
+
+/* Commentary Css Start */
+#comm-bg{
+    background-color: #ebd4b7;
+    width: 100%;
+}
+.commentary-part{
+    width: 30%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.commentary-thumbnail img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.comm-arrow{
+   cursor: pointer; 
+   font-size: 25px;
+}
+
+/* Commentary Css End */
