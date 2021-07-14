@@ -214,6 +214,7 @@ input{
     border-radius: 10px;
     border: 1px solid gray;
     background-color: white;
+    outline: none;
 }
 
 textarea{
@@ -221,6 +222,7 @@ textarea{
     width: 100%;
     border-radius: 10px;
     margin-bottom: 60px;
+    outline: none;
     
 }
 button{
