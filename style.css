@@ -163,7 +163,7 @@ a{
 /* Highlight Css End */
 
 /* Commentary Css Start */
-#comm-bg{
+.comm-bg{
     background-color: #ebd4b7;
     width: 100%;
 }
@@ -188,3 +188,44 @@ a{
 }
 
 /* Commentary Css End */
+
+/* Contact Css Start */
+#contact-bg{
+    background-color: var(--light-black);
+}
+.middle{
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: var(--white);
+    padding: 50px 0;
+}
+.contact-style{
+    width: 400px;
+    margin: 0 auto;
+}
+input{
+    height: 30px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: white;
+}
+textarea{
+    height: 100px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    
+}
+button{
+    margin-bottom: 40px;
+    border:none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* Contact Css End */
